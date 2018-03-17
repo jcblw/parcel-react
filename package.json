@@ -14,7 +14,8 @@
   "license": "MIT",
   "dependencies": {
     "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "react-dom": "^16.2.0",
+    "react-inlinesvg": "^0.8.0"
   },
   "devDependencies": {
     "parcel-bundler": "^1.6.1"
